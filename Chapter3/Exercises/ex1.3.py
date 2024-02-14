@@ -1,0 +1,1 @@
+# Explain the role of the variable in the header of a for loop
